@@ -1,0 +1,1 @@
+A simple Python script to move images (.png, .jpg, etc.) from the Desktop to a folder in Documents. Images are ordered in dated folders, and they avoid conflicts automatically. Can be adapted to any type of files. Useful for when your lazyness makes you save most things on your Desktop.
